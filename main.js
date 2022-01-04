@@ -23,7 +23,7 @@ function show() {
 
 
 function sorting() {
-    names_of_people.sort;
+    names_of_people.sort();
     // add the sort function here
     // .sort();
     var i = names_of_people.join("<br>");
